@@ -5,13 +5,13 @@ The project simulinks the dynamic modeling and PD/InverseDynamic control of 2-li
 
 ![PD_simulink](/resources/PD_simulink.png)
 
-![PD_result](G:/My Drive/00SML/004_SRG/Notes/images/PD_result.png)
+![PD_result](/resources//PD_result.png)
 
 ## Inverse Dynamic controller for trajectory-tracking task
 
-![InverseDynamic_simulink](G:/My Drive/00SML/004_SRG/Notes/images/InverseDynamic_simulink.png)
+![InverseDynamic_simulink](/resources/InverseDynamic_simulink.png)
 
-![](G:/My Drive/00SML/004_SRG/Notes/images/InverseDynamic_result-16523889715882.png)
+![](/resources/InverseDynamic_result-16523889715882.png)
 
 
 
