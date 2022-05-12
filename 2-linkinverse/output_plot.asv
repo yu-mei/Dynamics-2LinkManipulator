@@ -1,0 +1,15 @@
+close all;
+
+figure(1);
+subplot(211);
+
+q1_d = pi/4 * ones(length(t), 1); 
+q2_d = pi/2 * ones(length(t), 1); 
+
+plot(t, x1,'r', t, q1_d, 'b', ["Temperature" "PressureHg"]);
+xlabel('time(s)');ylabel('position tracking of link 1');
+legend
+subplot(212);
+plot(t, x2,'r', t, q2_d, 'b', ["Temperature" "PressureHg"]);
+xlabel('time(s)');ylabel('position tracking of link 2');
+legend
