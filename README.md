@@ -11,7 +11,7 @@ The project simulinks the dynamic modeling and PD/InverseDynamic control of 2-li
 
 ![InverseDynamic_simulink](/resources/InverseDynamic_simulink.png)
 
-![InverseDynamic_result].(/resources/InverseDynamic_result.png)
+![InverseDynamic_result](/resources/InverseDynamic_result.png)
 
 
 
