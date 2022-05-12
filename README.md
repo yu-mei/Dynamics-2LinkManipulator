@@ -3,7 +3,7 @@ The project simulinks the dynamic modeling and PD/InverseDynamic control of 2-li
 
 ## PD controller for set-point task
 
-![PD_simulink](G:/My Drive/00SML/004_SRG/Notes/images/PD_simulink.png)
+![PD_simulink](/resources/PD_simulink.png)
 
 ![PD_result](G:/My Drive/00SML/004_SRG/Notes/images/PD_result.png)
 
